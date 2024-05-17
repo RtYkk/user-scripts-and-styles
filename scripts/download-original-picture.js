@@ -13,6 +13,7 @@
 // @contributionAmount 5
 // @include     *://medium.com/*
 // @include     *://twitter.com/*
+// @include     *://x.com/*
 // @include     *://*.twitter.com/*
 // @include     *://weibo.com/*
 // @include     *://*.weibo.com/*
